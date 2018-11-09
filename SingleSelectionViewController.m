@@ -1,13 +1,12 @@
 //
-//  WGCompaniesViewController.m
-//  WGOSX
+//  SingleSelectionViewController.m
+//  Demo
 //
 //  Created by Tallha Sarwar on 25/09/2016.
 //  Copyright (c) 2014 Pro. All rights reserved.
 //
 
 #import "SingleSelectionViewController.h"
-#import "WGSharedData.h"
 
 @interface SingleSelectionViewController ()
 
