@@ -2,7 +2,7 @@
 //  WGCompaniesViewController.h
 //  WGOSX
 //
-//  Created by Tallha on 25/09/2016.
+//  Created by Tallha Sarwar on 25/09/2016.
 //  Copyright (c) 2014 Pro. All rights reserved.
 //
 
